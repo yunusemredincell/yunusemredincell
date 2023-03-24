@@ -9,7 +9,7 @@
 
 ### Reach out to me:
 
-[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][linkedin]
+[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg/#00BFFF" />][linkedin]
 
 <br />
 <br />
